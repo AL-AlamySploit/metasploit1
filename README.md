@@ -16,4 +16,12 @@ $ chmod +x termux-metasploit.sh
 
 $ ./termux-metasploit.sh</span></pre>
 
-A7Y Team (-_^)
+# Video explanation
+
+wait..
+
+# Channel
+
+https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
+
+A7Y Team (^_^)
