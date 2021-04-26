@@ -21,6 +21,13 @@ apt install ruby
 gem install bundle
 gem install bundler
 pip install bundle
+php install bundler
+bundle install -j5
+bundle update
+bundle update nokogiri
+gem install nokogiri -- --use-system-libraries
+error nokogiri versi 1.8.2
+gem install nokogiri -v'1.8.0' -- --use-system-libraries
 gem update --system
 bundler update --bundler
 gem install bundler:1.17.3
