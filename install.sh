@@ -21,6 +21,7 @@ apt install ruby
 gem install bundle
 gem install bundler
 pip install bundle
+gem update --system
 git clone https://github.com/rapid7/metasploit-framework.git
 ls
 cd metasploit-framework
