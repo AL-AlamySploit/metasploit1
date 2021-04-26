@@ -22,6 +22,8 @@ gem install bundle
 gem install bundler
 pip install bundle
 gem update --system
+bundler update --bundler
+gem install bundler:1.17.3
 git clone https://github.com/rapid7/metasploit-framework.git
 ls
 cd metasploit-framework
