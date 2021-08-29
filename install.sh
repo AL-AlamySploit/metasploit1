@@ -8,8 +8,6 @@ echo "$A7Y██║  ██║███████╗ ██║  ██║█�
 echo "$A7Y╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝";
 echo
 echo
-echo "$A7Y[The code By With Metasploit]"
-echo
 center "*** Downloading..."
 cd $HOME
 git clone https://github.com/rapid7/metasploit-framework.git --depth=1
